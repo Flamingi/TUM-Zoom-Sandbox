@@ -8,6 +8,7 @@ Um die Sandbox zu nutzen müssen einige Anforderungen erfüllt werden, diese sin
 * 1 GB freier Speicherplatz
 * 4 GB RAM (empfohlen werden 8GB RAM)
 * 2 CPU-Kerne (empfohlen werden 4 CPU-Kerne)
+* CPU-Support für Virtualisierung (muss evtl. im BIOS aktiviert werden)
 * Windows 10 Version 1903 oder neuer
 * Windows Pro, Enterprise, Edu, Server (keine Sorge, falls Windows 10 Home installiert ist. Als TUM Student(in) kann man sich einen kostenfreien Windows 10 Edu Key besorgen)
 ## Aktivierung der Sandbox
