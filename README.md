@@ -80,9 +80,9 @@ exit
         </MappedFolder>
     </MappedFolders>
 
-	<LogonCommand>
-		<Command>C:\Users\WDAGUtilityAccount\Desktop\Sandbox\InstallZoom.cmd</Command>
-	</LogonCommand>
+    <LogonCommand>
+	<Command>C:\Users\WDAGUtilityAccount\Desktop\Sandbox\InstallZoom.cmd</Command>
+    </LogonCommand>
 </Configuration>
 ```
 * Nach dem Speichern der Konfigurationsdatei, muss die Dateiendung von `.txt` in `.wsb` geändert werden. Zum Starten der Sandbox muss in Zukunft nur diese Datei geöffnet werden.
